@@ -41,6 +41,18 @@ section > div p{
     font-size: 18px;
     font-weight: bold;
 }
+#Chicken{
+    background-color: palevioletred;
+}
+#beef{
+    background: brown;
+    color: aliceblue;
+}
+#d{
+    background-color: bisque;
+     color: black
+
+}
 @media screen and (max-width:912px) {
     section{
         display: table;
